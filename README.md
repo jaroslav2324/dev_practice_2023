@@ -1,6 +1,6 @@
 # dev_practice_2023
 
-Tasks from summer 2023 practice in SUAI. Some tasks are implemented using Qt.
+Tasks from summer 2023 practice in SUAI. Some tasks are implemented using SDL.
 
 Tasks are provided in russian language.
 
